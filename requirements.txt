@@ -1,0 +1,7 @@
+# Jupyter notebook requirements
+tensorflow
+keras
+numpy
+pandas
+scikit-learn
+matplotlib  
