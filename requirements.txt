@@ -1,7 +1,7 @@
-# Jupyter notebook requirements
-tensorflow
-keras
+# Jupyter notebook requirements for Apple Silicon
+tensorflow-macos
+tensorflow-metal
 numpy
 pandas
-scikit-learn
-matplotlib  
+matplotlib
+keras
