@@ -281,8 +281,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Marlon Munoz**
-- GitHub: [@yourusername](https://github.com/marlonmunoz)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/marlonrmunoz)
+- GitHub: [@marlonmunoz](https://github.com/marlonmunoz)
+- LinkedIn: [marlonrmunoz](https://www.linkedin.com/in/marlonrmunoz)
 
 ---
 
