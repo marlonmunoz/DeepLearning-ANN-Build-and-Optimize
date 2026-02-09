@@ -280,9 +280,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+**Marlon Munoz**
+- GitHub: [@yourusername](https://github.com/marlonmunoz)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/marlonrmunoz)
 
 ---
 
